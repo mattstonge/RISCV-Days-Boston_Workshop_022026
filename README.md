@@ -10,10 +10,10 @@ RISC-V Days Boston - Feb 27th 10am to 3pm - Red Hat Boston, MA Office
 
 #Information and Event Registration
 
-![Red Hat Events](https://research.redhat.com/events/world-risc-v-days-hands-on-risc-v-workshop-with-deepcomputing-and-red-hat/)
+[Red Hat Events](https://research.redhat.com/events/world-risc-v-days-hands-on-risc-v-workshop-with-deepcomputing-and-red-hat/)
 
 
-![RISC-V Days Website](https://riscv.org/event/world-risc-v-days-boston-usa/)
+[RISC-V Days Website](https://riscv.org/event/world-risc-v-days-boston-usa/)
 
 ----------------------------------------
 
