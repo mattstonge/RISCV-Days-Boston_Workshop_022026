@@ -7,9 +7,9 @@ A hands-on workshop
 
 
 -----------------------------------------------------------------
-![remix](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/fedora_remix_dark_blue_and_white.png) 
+![remix](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/fedora_remix_dark_blue_and_white.png) 
 
-![DeepComputing](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/DeepComputing-logo.gif)
+![DeepComputing](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/DeepComputing-logo.gif)
 
 ## Overview
 
