@@ -3,7 +3,7 @@ A hands-on workshop
 
 -----------------------------------------------------------------
 
-[BACK to HOMEPAGE](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/README.md)
+[BACK to HOMEPAGE](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/README.md)
 
 
 -----------------------------------------------------------------
