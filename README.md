@@ -17,3 +17,20 @@ RISC-V Days Boston - Feb 27th 10am to 3pm - Red Hat Boston, MA Office
 
 ----------------------------------------
 
+# AGENDA
+
+10:00am  Welcome & Introductions
+10:10am  Presentation
+10:40am  Lab begins
+11:00am  (break)
+11:10am  Presentation
+11:45am  (Lunch break)
+12:15pm  Lab continues
+1:30pm   (break)
+1:45pm   Lab continues
+2:40pm   Q&A/Book Signing
+3:00pm   Closing remarks
+
+----------------------------------------
+
+
