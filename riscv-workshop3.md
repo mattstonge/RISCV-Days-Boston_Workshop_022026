@@ -3,11 +3,11 @@ A hands-on workshop
 
 -----------------------------------------------------------------
 
-[BACK to HOMEPAGE](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/README.md)
+[BACK to HOMEPAGE](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/README.md)
 
 
 -----------------------------------------------------------------
-![remix](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/fedora_remix_dark_blue_and_white.png) 
+![remix](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/fedora_remix_dark_blue_and_white.png) 
 
 ![DeepComputing](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/DeepComputing-logo.gif)
 
@@ -17,7 +17,7 @@ A hands-on workshop
 ## Overview
 > It's time for the Main Event - playing with AI!!!
 
-![AI Takes over the world](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/AI-running01.gif)
+![AI Takes over the world](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/AI-running01.gif)
 
 > 
 
@@ -53,7 +53,7 @@ $ btop
 
 ```
 
-![btop](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-btop.png)
+![btop](lab3-btop.png)
 
 ### Step 2:
 > now open another terminal window and resize it to fill only the upper right corner of the screen.
@@ -64,7 +64,7 @@ $  sudo ./start-server.sh
 
 ```
 
-![start-server](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-start-server.png)
+![start-server](lab3-start-server.png)
 
 >
 
@@ -75,7 +75,7 @@ $  sudo ./start-server.sh
 
 >
 
-![files](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-click-html-file.png)
+![files](lab3-click-html-file.png)
 
 
 ### Step 4:
@@ -88,15 +88,15 @@ $  sudo ./start-server.sh
 
 >**This process takes about 3-4 minutes - please be patient..**
 
-![First Web Prompt](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-AI-prompt1.png)
+![First Web Prompt](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab3-AI-prompt1.png)
 
 >An example question...
 
-![question](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-question.png)
+![question](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab3-question.png)
 
 >And a witty reply...
 
-![response](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-response.png)
+![response](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab3-response.png)
 
 
 
@@ -195,14 +195,14 @@ $ sudo /opt/eswin/sample-code/npu_sample/qwen_sample/bin/es_qwen2 /opt/eswin/sam
 
 -------------------------------------------------
 
-![starting](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3c-AI-greeting.png)
+![starting](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab3c-AI-greeting.png)
 
 
 
-![coexist](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3c-coexist.png)
+![coexist](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab3c-coexist.png)
 
 
-![inclusive](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3c-inclusive.png)
+![inclusive](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab3c-inclusive.png)
 
 --------------------------------------------------
 
