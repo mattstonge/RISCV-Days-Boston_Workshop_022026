@@ -39,5 +39,7 @@ RISC-V Days Boston - Feb 27th 10am to 3pm - Red Hat Boston, MA Office
 
 [LAB: Intro to AI](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/riscv-workshop3.md)
 
+[LAB: (OPTIONAL) Building RPMs on RISC-V](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/riscv-workshop4.md)
+
 
 ----------------------------------------
