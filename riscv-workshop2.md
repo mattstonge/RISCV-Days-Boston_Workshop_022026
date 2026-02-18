@@ -254,7 +254,7 @@ $  sudo -i
 
 ```
 
-![Enable tuned](lab2a-tuned1.png)
+![Enable tuned](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab2a-tuned1.png)
 
 > 
 
@@ -267,7 +267,7 @@ $  sudo -i
 ```
 
 > The TUNA interface will appear - confirm the autocorrect by clicking "YES" 
-![Initial tuna](lab2a-tuna1.png)
+![Initial tuna](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab2a-tuna1.png)
 
 > After about 15 seconds, close the tuna interface and return to the terminal
 
@@ -288,7 +288,7 @@ $  sudo -i
 ```
 
 > In the first tab, **Monitoring** , we see an interface that resembles the output of top (but provides SELinux info and much more)
-![tuna screen 1](lab2a-tuna2.png)
+![tuna screen 1](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab2a-tuna2.png)
 
 >
 
@@ -296,11 +296,11 @@ $  sudo -i
 
 >
 
-![tuna screen 2](lab2a-tuna3.png)
+![tuna screen 2](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab2a-tuna3.png)
 
 > In the third tab, **Profile Editing** , we are presented with a more text-editor like method for viewing and editing profiles.
 
-![tuna screen 3](lab2a-tuna4.png)
+![tuna screen 3](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/images/lab2a-tuna4.png)
 > When you are done browsing the options, DO NOT SAVE - just exit tuna.
 
 >
