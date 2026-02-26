@@ -2,7 +2,7 @@
 RISC-V Days Boston - Feb 27th 10am to 3pm - Red Hat Boston, MA Office
 
 
-![Session](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/riscv-days-global.jpeg)
+![Session](https://github.com/mattstonge/RISCV-Days-Boston_Workshop_022026/blob/main/WorldRISCVDays_Boston.jpg)
 # Presented By Matt St. Onge & Yuning Liang
 
 
